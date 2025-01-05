@@ -5,6 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 import game1 from "../assets/projects/game-1.mp4";
 import game2 from "../assets/projects/game-2.mp4";
 import game3 from "../assets/projects/game-3.mp4";
+import game4 from "../assets/projects/game-4.mp4";
 
 export const HERO_CONTENT = `I am a dedicated character animator with a passion for bringing life and personality to game characters. As a recent graduate, I have developed skills in 2D and 3D animation, specializing in character rigging, movement design. My experience extends to implementing animations in Unreal Engine 5, ensuring smooth and dynamic integration into gameplay.`;
 
@@ -62,7 +63,7 @@ export const PROJECTS = [
       "This is a game about a man trapped in a forest. In the forest, there is a monster, and the man must explore the area to find batteries to unlock a gate and escape.",
     technologies: ["Unreal Engine", "Blueprints", "State Machine"],
     link: "https://drive.google.com/file/d/1ySd3wtZKg7UdNy8qdmKcg1j7YwuSFEDg/view?usp=sharing",
-    // video: game4,
+    video: game4,
   },
 ];
 
