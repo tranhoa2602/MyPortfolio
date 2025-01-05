@@ -68,7 +68,7 @@ const Project = () => {
                 href={project.link}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-block rounded bg-blue-500 px-4 py-2 text-white hover:bg-blue-600"
+                className="inline-block rounded bg-blue-500 px-2 py-1 text-sm font-medium hover:bg-purple-900"
               >
                 View Details
               </a>
